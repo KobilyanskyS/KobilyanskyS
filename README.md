@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KobilyanskyS
-- 👀 I’m interested in game and web-development
+- 👀 I’m interested in web-development
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: kobilyansky.s@gmail.com
 
